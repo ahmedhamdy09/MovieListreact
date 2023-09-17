@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MovieListreact/static/css/main.037fe85d.chunk.css",
+    "main.js": "/MovieListreact/static/js/main.528a869d.chunk.js",
+    "main.js.map": "/MovieListreact/static/js/main.528a869d.chunk.js.map",
+    "runtime-main.js": "/MovieListreact/static/js/runtime-main.436ed6a6.js",
+    "runtime-main.js.map": "/MovieListreact/static/js/runtime-main.436ed6a6.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/MovieListreact/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.bb2079d7.chunk.js": "/MovieListreact/static/js/2.bb2079d7.chunk.js",
+    "static/js/2.bb2079d7.chunk.js.map": "/MovieListreact/static/js/2.bb2079d7.chunk.js.map",
+    "index.html": "/MovieListreact/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/MovieListreact/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.037fe85d.chunk.css.map": "/MovieListreact/static/css/main.037fe85d.chunk.css.map",
+    "static/js/2.bb2079d7.chunk.js.LICENSE.txt": "/MovieListreact/static/js/2.bb2079d7.chunk.js.LICENSE.txt",
+    "static/media/logo.800ff118.png": "/MovieListreact/static/media/logo.800ff118.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.436ed6a6.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.bb2079d7.chunk.js",
+    "static/css/main.037fe85d.chunk.css",
+    "static/js/main.528a869d.chunk.js"
+  ]
+}
